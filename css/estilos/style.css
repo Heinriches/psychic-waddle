@@ -1,0 +1,10 @@
+.texto_titulo{
+	color: 	#516dad;
+	font-size: 	38px;
+	background: #000;
+}
+
+#texto_subtitulo{
+	color: red;
+	font-weight: 500;
+}
